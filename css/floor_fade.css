@@ -5,5 +5,22 @@ body {
 .container {
     margin: 0 auto;
     width: 80%;
+    position: relative;
 }
 
+.text-block {
+    background-color: blue;
+    opacity: 0.3;
+    color: white;
+    text-align: center;
+    height: 99%;
+    width: 100%;
+
+    position: absolute;
+    top: 0%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}

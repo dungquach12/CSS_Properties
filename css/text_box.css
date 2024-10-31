@@ -1,0 +1,25 @@
+body {
+    margin: 0; /*Noi dung dinh sat tren trinh duyet*/
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto; /*Noi dung trang web luon canh giua man hinh*/
+    position: relative;
+}
+
+.text-block {
+    background-color: white;
+    opacity: 0.5;
+    padding: 1em;
+    
+    position: absolute;
+    bottom: 2em;
+    right: 2em;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
